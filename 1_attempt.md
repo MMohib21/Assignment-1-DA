@@ -19,6 +19,12 @@ Variables needed: item, city, price
 
 - Shape (rows x columns): 100 x 5
 
-- Distinct items: 4 (guess: between 3 and 5)
+- Distinct items: 4
 
-- Distinct dates: 7 (guess: about a week of data, not sure)
+- Distinct dates: 7
+
+## Actual Description
+
+- Shape (rows x columns): 96 x 6
+- Distinct items: 4
+- Distinct dates: 12
